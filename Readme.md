@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=75&lines=Estudiante+de+Informática+y+Piloto+Privado;Apasionado+por+la+tecnología+y+la+aviación;Scroll+para+conocer+mis+proyectos+y+habilidades" />
 </p>
 
+
 <p align="center">
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" />
 </p>
