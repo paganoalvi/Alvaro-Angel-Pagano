@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Álvaro Ángel Pagano 🛩️</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&left=true&vCenter=true&width=600&height=75&lines=%20Estudiante+de+Informática+y+Piloto+Privado;%20Apasionado+por+la+tecnología+y+la+aviación;%20Scroll+para+conocer+mis+proyectos+y+habilidades" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&left=true&vCenter=true&width=600&height=75&lines=%20Estudiante+de+Informática+y+Piloto+Privado;%20Apasionado+por+la+tecnología+y+la+aviación;%20Scroll+para+conocer+mis+proyectos+y+skills" />
 </p>
 
 <p align="center">
