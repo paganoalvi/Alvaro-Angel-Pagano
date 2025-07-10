@@ -64,7 +64,7 @@ Además, soy piloto privado profesional y exjugador de rugby. Disfruto del traba
 </a>
 
 <a href="mailto:paganoalvarongel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-paganoalvarongel@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-paganoalvaroangel@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="mailto:apagano@lifia.info.unlp.edu.ar">
